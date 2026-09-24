@@ -23,9 +23,9 @@
 
 | Câu hỏi | Trả lời |
 |---|---|
-| Kết quả thực tế | |
-| Kết quả mong đợi (theo SRS, ghi rõ mục) | |
-| Có phải failure không? Vì sao? | |
+| Kết quả thực tế | Đăng ký thành công |
+| Kết quả mong đợi (theo SRS, ghi rõ mục) | Hệ thống phải từ chối và báo lỗi nếu người dùng dưới 18 tuổi |
+| Có phải failure không? Vì sao? | Có, vì kết quả thực tế cho phép 17 tuổi đăng ký |
 | Defect nằm ở đâu (file, số dòng, đoạn mã) | |
 | Error nào của con người có thể đã gây ra defect này? | |
 
@@ -33,8 +33,8 @@
 
 | Câu hỏi | Trả lời |
 |---|---|
-| Tạm tính | |
-| Phí vận chuyển hệ thống tính | |
+| Tạm tính | 500.000 |
+| Phí vận chuyển hệ thống tính | 20.000 |
 | Theo FR-04.2, phí đúng phải là | |
 | Theo Phụ lục A, phí đúng phải là | |
 | Hệ thống đúng hay sai? Có kết luận được không? Vì sao? | |
