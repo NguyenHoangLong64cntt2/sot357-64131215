@@ -1,18 +1,18 @@
 # BUỔI 1 – PHẦN 1: CÀI ĐẶT VÀ KHÁM PHÁ HỆ THỐNG
 
-- **Họ tên:** 
-- **MSSV:** 
-- **Lớp:** 
+- **Họ tên: Nguyễn Hoàng Long** 
+- **MSSV: 64131215** 
+- **Lớp: SOT357_65.CNTT-2** 
 
 ## 1. Môi trường
 
 | Mục | Kết quả |
 |---|---|
-| Phiên bản Node.js (`node -v`) | |
-| Phiên bản npm (`npm -v`) | |
-| Phiên bản Git (`git --version`) | |
-| Hệ điều hành | |
-| Kết quả `npm run lint` (số error / warning) | |
+| Phiên bản Node.js (`v24.21.0`) | |
+| Phiên bản npm (`11.19.0`) | |
+| Phiên bản Git (`2.54.0.windows.3`) | |
+| Hệ điều hành (`windows 11`)| |
+| Kết quả `16 errors, 3 warnings` (số error / warning) | |
 
 Ảnh chụp màn hình (chèn ảnh hoặc đặt file ảnh trong thư mục `bai-nop/hinh/` rồi dẫn link):
 
