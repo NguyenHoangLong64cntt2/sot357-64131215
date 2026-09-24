@@ -8,11 +8,11 @@
 
 | Mục | Kết quả |
 |---|---|
-| Phiên bản Node.js (`v24.21.0`) | |
-| Phiên bản npm (`11.19.0`) | |
-| Phiên bản Git (`2.54.0.windows.3`) | |
-| Hệ điều hành (`windows 11`)| |
-| Kết quả `16 errors, 3 warnings` (số error / warning) | |
+| Phiên bản Node.js  |(`v24.21.0`) |
+| Phiên bản npm  |(`11.19.0`) |
+| Phiên bản Git  |(`2.54.0.windows.3`) |
+| Hệ điều hành |(`windows 11`) |
+| Kết quả  (số error / warning) | `16 errors, 3 warnings` |
 
 Ảnh chụp màn hình (chèn ảnh hoặc đặt file ảnh trong thư mục `bai-nop/hinh/` rồi dẫn link):
 
